@@ -5,7 +5,7 @@
 ### Author: Shubham Majumdar
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-Shubham/Lab03--Async/pull/2)
+* [submission PR](https://github.com/401-advanced-javascript-Shubham/Lab03--Async/compare/master...Dev)
 * [Github Actions](https://github.com/401-advanced-javascript-Shubham/Lab03--Async/actions)
 
 #### Documentation
