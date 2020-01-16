@@ -1,0 +1,25 @@
+{
+  "name": "Lab03--Async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/.js",
+    "test": "jest --coverage --verbose",
+    "test-watch": "jest --watchAll --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-Shubham/Lab03--Async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-Shubham/Lab03--Async/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-Shubham/Lab03--Async#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
